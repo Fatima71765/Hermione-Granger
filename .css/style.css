@@ -2,6 +2,7 @@ html, body{
 margin:350px; 
 padding:0px;
 }
+<link href="style.css" rel="stylesheet">
 .header{
 	background-image:starrybackground.jpg;
 	size:width:1024;
